@@ -10,4 +10,4 @@ Each folder contains the problem’s solution and an explanation of the approach
 
 | Problem | Title | Solution |
 |---------|----------------|----------|
-| 001 | Multiples of 3 and 5 | [solution](problem_001/solution.py) |
+| 001 | Multiples of 3 and 5 | [solution](problem_001/solution001.py) |
