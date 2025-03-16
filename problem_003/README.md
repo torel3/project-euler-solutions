@@ -22,5 +22,9 @@ If N > 2 at the end, it is a prime factor.
 
 The remaining N after division is the largest prime factor.
 
+If a number larger than sqrt(n) were a factor, its corresponding co-factor would already be found below that value.
+
+By the time we reach sqrt(n), any leftover number must be prime itself.
+
 ## RunTime
 O(sqrt(N))
