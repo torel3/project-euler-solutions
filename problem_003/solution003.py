@@ -5,9 +5,9 @@ def largest_prime_factor(n):
     while n % 2 == 0:
         n //= 2
 
-    # Check odd numbers from 3 onwards up to square(n).
-    # If a number larger than square(n) were a factor, its corresponding co-factor would already be found below that value.
-    # By the time we reach square(n), any leftover number must be prime itself.
+    # Check odd numbers from 3 onwards up to sqrt(n).
+    # If a number larger than sqrt(n) were a factor, its corresponding co-factor would already be found below that value.
+    # By the time we reach sqrt(n), any leftover number must be prime itself.
 
     factor = 3
     while factor * factor <= n:
