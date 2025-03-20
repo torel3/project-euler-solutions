@@ -10,9 +10,9 @@ We use the Least Common Multiple (LCM) approach.
 
 The LCM of two numbers `a` and `b` is:
   
-  \[
+  
   LCM(a, b) = \frac{a \times b}{GCD(a, b)}
-  \]
+  
   
 We compute Greater Common Diviser (GCD) using the built in function math.gcd() or writing our own with Euclidean algorithm.
 
