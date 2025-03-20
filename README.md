@@ -10,9 +10,8 @@ Each folder contains the problem’s solution and an explanation of the approach
 
 | Problem | Title | Solution |
 |---------|----------------|----------|
-| 001 | Multiples of 3 and 5 | [solution](problem_001/solution001.py) |
-| 002 | Even Fibonacci Numbers | [solution](problem_002/solution002.py) |
-| 003 | Largest Prime Factor | [solution](problem_003/solution003.py) |
-| 004 | Largest Palindrome Product | [solution](problem_004/solution004.py) |
-| 005 | Smallest Multiple | [solution](problem_005/solution005.py) |
 | 001 | [Multiples of 3 and 5](problem_001/README.md) | [solution](problem_001/solution001.py) |
+| 002 | [Even Fibonacci Numbers](problem_002/README.md) | [solution](problem_002/solution002.py) |
+| 003 | [Largest Prime Factor](problem_003/README.md) | [solution](problem_003/solution003.py) |
+| 004 | [Largest Palindrome Product](problem_004/README.md) | [solution](problem_004/solution004.py) |
+| 005 | [Smallest Multiple](problem_005/solution005.py) | [solution](problem_005/solution005.py) |
