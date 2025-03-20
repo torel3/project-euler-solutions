@@ -15,4 +15,4 @@ Each folder contains the problem’s solution and an explanation of the approach
 | 003 | Largest Prime Factor | [solution](problem_003/solution003.py) |
 | 004 | Largest Palindrome Product | [solution](problem_004/solution004.py) |
 | 005 | Smallest Multiple | [solution](problem_005/solution005.py) |
-| 001 | [Multiples of 3 and 5](problem_001/README.dm) | [solution](problem_001/solution001.py) |
+| 001 | [Multiples of 3 and 5](problem_001/README.md) | [solution](problem_001/solution001.py) |
