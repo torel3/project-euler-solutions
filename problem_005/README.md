@@ -16,7 +16,9 @@ The LCM of two numbers `a` and `b` is:
   $$
   
   
-We compute Greater Common Diviser (GCD) using the built in function math.gcd() or writing our own with Euclidean algorithm.
+We compute Greater Common Diviser (GCD) using the built in function math.gcd().
+
+For the sake of clarity we provide the code of this function that uses Euclidean algorithm.
 
 ## RunTime
 
