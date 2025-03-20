@@ -14,3 +14,4 @@ Each folder contains the problem’s solution and an explanation of the approach
 | 002 | Even Fibonacci Numbers | [solution](problem_002/solution002.py) |
 | 003 | Largest Prime Factor | [solution](problem_003/solution003.py) |
 | 004 | Largest Palindrome Product | [solution](problem_004/solution004.py) |
+| 005 | Smallest Multiple | [solution](problem_005/solution005.py) |
