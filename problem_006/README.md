@@ -33,6 +33,10 @@ Find the difference between the sum of the squares and the square of the sum for
   $$
   \Bigg( \frac{n(n+1)}{2} \Bigg) ^2
   $$
+  
+\[
+\Bigg( \frac{n(n+1)}{2} \Bigg)^2
+\]
 
   
 # RunTime Analysis
