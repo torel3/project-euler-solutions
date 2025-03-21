@@ -9,7 +9,6 @@ def sum_of_squares(n):
     return res
 
 def square_of_sum(n):
-    res = 1
     return (n*(n+1)/2)**2
 
 def sum_square_difference(n):
