@@ -14,4 +14,5 @@ Each folder contains the problem’s solution and an explanation of the approach
 | 002 | [Even Fibonacci Numbers](problem_002/README.md) | [solution](problem_002/solution002.py) |
 | 003 | [Largest Prime Factor](problem_003/README.md) | [solution](problem_003/solution003.py) |
 | 004 | [Largest Palindrome Product](problem_004/README.md) | [solution](problem_004/solution004.py) |
-| 005 | [Smallest Multiple](problem_005/solution005.py) | [solution](problem_005/solution005.py) |
+| 005 | [Smallest Multiple](problem_005/README.md) | [solution](problem_005/solution005.py) |
+| 006 | [Sum Square Difference](problem_006/README.md) | [solution](problem_006/solution006.py) |
