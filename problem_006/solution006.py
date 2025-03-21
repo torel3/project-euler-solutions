@@ -12,8 +12,8 @@ def square_of_sum(n):
     res = 1
     return (n*(n+1)/2)**2
 
+def sum_square_difference(n):
+    return int(square_of_sum(n) - sum_of_squares(n))
 
-# Compute for n = 100
 n = 100
-result = square_of_sum(n) - sum_of_squares(n)
-print("The difference between the sum of the squares of the first one hundred natural numbers and the square of the sum is:", int(result))
+print("The difference between the sum of the squares of the first one hundred natural numbers and the square of the sum is:", sum_square_difference(n))
