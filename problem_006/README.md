@@ -31,12 +31,9 @@ Find the difference between the sum of the squares and the square of the sum for
   The square of the sum of the first n natural numbers can be calculated iteratively or using a formula:
 
   $$
-  \Bigg( \frac{n(n+1)}{2} \Bigg) ^2
+  \left( \frac{n(n+1)}{2} \right) ^2
   $$
   
-\[
-\Bigg( \frac{n(n+1)}{2} \Bigg)^2
-\]
 
   
 # RunTime Analysis
