@@ -21,6 +21,18 @@ Find the difference between the sum of the squares and the square of the sum for
 
 # Approach
 
+  The sum of the squares of the first n natural numbers can be calculated iteratively or using a formula:
+  
+  $$
+  (1^2 + 2^2 + ... + n^2) = \frac{n \times (n+1) \times (2n+2)}{6}
+  $$
 
 
+  The square of the sum of the first n natural numbers can be calculated iteratively or using a formula:
+
+  $$
+  (1 + 2 + ... + n)^2 = (\frac{n \times (n+1) }{2} )^2
+  $$
+
+  
 # RunTime Analysis
