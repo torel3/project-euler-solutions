@@ -34,5 +34,9 @@ Find the difference between the sum of the squares and the square of the sum for
   (1 + 2 + ... + n)^2 = \bigg( \frac{n \times (n+1) }{2} \bigg) ^2
   $$
 
+  $$
+  \left( \frac{n(n+1)}{2} \right)^2
+  $$
+
   
 # RunTime Analysis
