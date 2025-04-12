@@ -16,3 +16,4 @@ Each folder contains the problem’s solution and an explanation of the approach
 | 004 | [Largest Palindrome Product](problem_004/README.md) | [solution](problem_004/solution004.py) |
 | 005 | [Smallest Multiple](problem_005/README.md) | [solution](problem_005/solution005.py) |
 | 006 | [Sum Square Difference](problem_006/README.md) | [solution](problem_006/solution006.py) |
+| 007 | [10 001st Prime](problem_007/README.md) | [solution](problem_007/solution007.py) |
